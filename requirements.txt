@@ -1,0 +1,27 @@
+# Core numerics and data wrangling
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+
+# Plotting / viz
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# Modeling / stats
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+
+# Notebooks
+jupyterlab>=4.1
+ipykernel>=6.29
+notebook>=7.1
+
+# Utilities
+tqdm>=4.66
+requests>=2.31
+python-dotenv>=1.0
+
+# (Optional) Alternative dataframe engine
+polars>=0.20
