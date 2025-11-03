@@ -25,6 +25,7 @@ Thumbs.db
 *.log
 
 # Data / artifacts
+data/*.csv
 *.parquet
 *.feather
 *.arrow
